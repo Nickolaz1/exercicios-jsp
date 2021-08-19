@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/nickolas/Documentos/Exercicios/Estudos Java/Exercicios JSP/Exercicios Jsp - 01/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2032041872.index
+676081359.index
+3135104531.index
+236539654.index
+1874793988.index
+3759615530.index
+340774358.index
